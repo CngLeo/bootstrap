@@ -4,7 +4,6 @@
 
 ### 什么是Bootstrap？
 
-![Bootstrap 官网](./images/cover.png)
 
 - 框架：库 lib library
 - jQuery作为一个框架来讲，提供一套比较便捷的操作DOM的方式
